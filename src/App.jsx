@@ -1,3 +1,5 @@
+import './App.css'
+
 import { LiftingStatUp } from './components/LiftingStatUp';
 
 const App = ()=>{ 
